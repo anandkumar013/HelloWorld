@@ -14,4 +14,4 @@ python
 REST API
 Database
 Frame Work
-Data Strutue and Alogrith
+Data Strutue and Algorithm
